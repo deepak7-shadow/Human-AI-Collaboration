@@ -1,0 +1,37 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Database
+*.db
+*.sqlite3
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.cache
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
